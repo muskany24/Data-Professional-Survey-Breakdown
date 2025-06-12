@@ -1,5 +1,6 @@
 # Data-Professional-Survey-Breakdown
 
+![image](https://github.com/user-attachments/assets/b8af7b07-7b0e-437b-a257-3489bb6459da)
 
 **About this Project**
 
