@@ -27,13 +27,13 @@ Final dataset contained **14,576** valid responses ready for analysis.
 
 **Key Insights**
 
-**Profession Distribution by Region**
+**1) Profession Distribution by Region**
 
 Most respondents were concentrated in North America, Europe, and Asia.
 
 Data Scientists, Software Engineers, and Analysts were the top three job titles globally.
 
-**Salary Analysis**
+**2) Salary Analysis**
 
 Average salary varied significantly by both job title and region.
 
@@ -41,7 +41,7 @@ Professionals in roles like Data Architects and Machine Learning Engineers had t
 
 Countries in North America and Western Europe reported higher compensation levels overall.
 
-**Programming Language Preferences**
+**3) Programming Language Preferences**
 
 Python emerged as the most widely used and preferred programming language.
 
@@ -49,7 +49,7 @@ Other popular technologies included SQL, R, and JavaScript.
 
 Regional preferences varied slightly, with Python leading across most countries.
 
-**Job & Salary Satisfaction**
+**4) Job & Salary Satisfaction**
 
 A majority of respondents reported being satisfied with their jobs, though satisfaction levels varied by profession.
 
