@@ -1,6 +1,7 @@
 # Data-Professional-Survey-Breakdown
 
 **Data Professional Survey Breakdown**
+
 This project analyzes global survey data to explore the distribution and characteristics of various professions in the tech and data industry. Using Power BI, I visualized key insights to understand employment patterns, salary expectations, and professional satisfaction across different regions and job roles.
 
 **Key Highlights:**
